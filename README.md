@@ -7,6 +7,9 @@ How to start?
     5) Migrate - python manage.py migrate
     6) Run server - python manage.py runserver
     7) Go on localhost - http://localhost:8000/users
+  
+  
+  
   Linux:
     1) Create virtual environment - python3 -m venv env
     2) Activate virtual environment - source env/bin/activate
