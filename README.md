@@ -1,4 +1,8 @@
 How to start?
+  
+  
+  
+  
   Windows:
     1) Create virtual environment - python -m venv env
     2) Call virtual environment - call env/Scripts/activate.bat
